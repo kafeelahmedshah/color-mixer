@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Student / project information
 STUDENT_NAME = "Adil Mangsi"
-ROLL_NUMBER = "24TE065"
+ROLL_NUMBER = "25TE065"
 DEPARTMENT = "Textile Engineering"
 
 PRESETS = {
